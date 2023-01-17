@@ -1,5 +1,4 @@
 # gerenciador-de-pessoas
-Sistema para gerenciamento de pessoas com Java e Spring Boot
 Projeto de desenvolvimento de API para gerenciamento de pessoas, codificado utilizando o Spring Boot, juntamente com a linguagem Java, utilizando o banco de dados H2 e retornando os dados no formato JSON.
 
 A aplicação foi construída utilizando a plataforma Postman, a qual pode ser utilizada para testes e simulações, conforme as funcionalidades abaixo:
