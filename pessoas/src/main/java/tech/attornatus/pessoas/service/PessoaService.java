@@ -179,7 +179,7 @@ public class PessoaService {
         } catch (NotFoundException e) {
             throw e;
         } catch (Exception e) {
-            throw new ServerSideException("Erro ao deletar cadastro de farmácia, mensagem localizada: " + e.getLocalizedMessage());
+            throw new ServerSideException("Erro ao cadastrar endereço, mensagem localizada: " + e.getLocalizedMessage());
         }
 
     }
